@@ -1,0 +1,1 @@
+[{"ToolCribPartNumber":"151617","ComponentName":"Component1","PreparationAlarmCounter":11000,"StoppageAlarmCounter":12000}]

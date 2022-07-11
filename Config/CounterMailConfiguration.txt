@@ -1,0 +1,1 @@
+{"MailSender":"maintenance.nidec.bermudez@gmail.com","MailPassword":"Nidec123","MailRecipients":"edgar.cruz@nidec.com"}

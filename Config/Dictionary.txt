@@ -1,0 +1,1 @@
+[{"ComponentDescription":"Push Button","LifeCycle":1000000,"ManualPDF":"https://drive.google.com/file/d/1AXyOX86hOWWTJMwBoDN07OCFIjwy9w6d/view?usp=sharing"},{"ComponentDescription":"SMC Cylinder","LifeCycle":2000000,"ManualPDF":"https://drive.google.com/file/d/14WxV4Bifq58CMBci1765dK-jw5orzN4f/view?usp=sharing"}]

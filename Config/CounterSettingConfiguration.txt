@@ -1,0 +1,1 @@
+[{"MachineName":0,"ComponentName":"Motor Fixture","PreparationAlarmCounter":1800,"StoppageAlarmCounter":2000},{"MachineName":0,"ComponentName":"Electrodes","PreparationAlarmCounter":20000,"StoppageAlarmCounter":22000},{"MachineName":0,"ComponentName":"Robot Oil","PreparationAlarmCounter":38000,"StoppageAlarmCounter":40000}]

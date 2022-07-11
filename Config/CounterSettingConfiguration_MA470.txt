@@ -1,0 +1,1 @@
+[{"ToolCribPartNumber":"121314","ComponentName":"Electrodes","PreparationAlarmCounter":5000,"StoppageAlarmCounter":6000}]

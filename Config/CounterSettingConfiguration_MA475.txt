@@ -1,0 +1,1 @@
+[{"ToolCribPartNumber":"104567","ComponentName":"Spinning Belt","PreparationAlarmCounter":1800,"StoppageAlarmCounter":2000},{"ToolCribPartNumber":"108724","ComponentName":"Emergency Stop","PreparationAlarmCounter":20000,"StoppageAlarmCounter":22000},{"ToolCribPartNumber":"105855","ComponentName":"Helicoil","PreparationAlarmCounter":38000,"StoppageAlarmCounter":40000}]
